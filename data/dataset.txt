@@ -3507,6 +3507,7 @@ La tarjeta de memoria no es reconocida por el dispositivo;2
 ¿Tiene algún programa de recompra o renovación?;0
 ¿Es compatible con cargadores inalámbricos?;0
 ¿Qué resolución tiene la cámara integrada?;0
+quiero reestablecer los ajustes de fabrica de mi producto;0
 ¿Hay opción para desactivar la telemetría?;0
 No estoy seguro para qué sirve esta función;0
 Creo que hay un error en la descripción del producto;0
@@ -3551,6 +3552,8 @@ El sistema operativo se corrompe con cualquier actualización;2
 ¿Por qué se reinicia solo cuando más lo necesito?;2
 Después de un mes, el plástico comenzó a agrietarse;2
 La aplicación pierde todos mis datos regularmente;2
+saltan chispas cuando lo enchufo;2
+que hago si hay hormigas viviendo dentro;2
 No puedo creer lo rápido que se rompió el botón de encendido;2
 El dispositivo deja de responder al tacto aleatoriamente;2
 ¿Cómo puede ser que la memoria interna sea la mitad de lo anunciado?;2
