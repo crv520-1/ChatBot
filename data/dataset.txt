@@ -3411,3 +3411,399 @@ El ventilador hace un ruido muy fuerte;2
 La impresora mancha todas las hojas;2
 El sensor de movimiento no detecta presencia;2
 La tarjeta de memoria no es reconocida por el dispositivo;2
+¿Cuánto tiempo dura la garantía del producto?;0
+¿Hay algún tutorial en video disponible?;0
+¿Puedo usar este dispositivo en diferentes países?;0
+¿Es compatible con mi iPad de 2020?;0
+¿Tiene opción para cambiar el idioma?;0
+¿Qué tipo de baterías utiliza el control remoto?;0
+¿Viene con cargador incluido?;0
+¿El producto tiene certificación de seguridad?;0
+¿Cuánto tarda normalmente en cargar por completo?;0
+¿Hay posibilidad de ampliación de memoria?;0
+¿Se puede conectar a más de un dispositivo simultáneamente?;0
+¿Cómo se limpia correctamente este producto?;0
+¿Es posible reemplazar la batería cuando se deteriore?;0
+¿El software se actualiza automáticamente?;0
+¿Cuáles son los requisitos mínimos del sistema?;0
+¿Tiene modo de ahorro de energía?;0
+¿Dónde puedo encontrar el número de serie?;0
+¿Es compatible con sistemas de domótica?;0
+¿Qué protocolos de seguridad implementa?;0
+¿Puedo transferir datos de mi dispositivo antiguo?;0
+¿Los accesorios se venden por separado?;0
+¿Hay alguna app móvil para control remoto?;0
+¿Qué significa el indicador luminoso cuando parpadea en rojo?;0
+¿Es posible configurar notificaciones personalizadas?;0
+¿Tiene función de apagado automático?;0
+¿Cuántos usuarios pueden configurarse simultáneamente?;0
+¿La garantía cubre daños por agua?;0
+¿Se puede utilizar sin conexión a internet?;0
+¿Qué diferencia hay entre este modelo y el anterior?;0
+¿Es compatible con asistentes virtuales?;0
+¿Tiene protección contra sobrecalentamiento?;0
+¿Puedo exportar los datos a otro formato?;0
+¿Es necesario instalar drivers adicionales?;0
+¿Qué opciones de conectividad ofrece?;0
+¿Viene con manual de usuario detallado?;0
+¿Hay servicio técnico en mi ciudad?;0
+¿Tiene función de bloqueo para niños?;0
+¿Cuál es la vida útil estimada del dispositivo?;0
+¿Es compatible con carga rápida?;0
+¿Qué estándares de calidad cumple este producto?;0
+¿Ofrece soporte técnico 24/7?;0
+¿Cómo se activa el modo de diagnóstico?;0
+¿Tiene algún programa de reciclaje para el dispositivo antiguo?;0
+¿Es posible programar el encendido automático?;0
+¿Qué tipo de mantenimiento requiere?;0
+¿Hay opciones de personalización disponibles?;0
+¿Puedo utilizar el producto mientras se carga?;0
+¿Tiene protección contra virus integrada?;0
+¿Cómo se restablece a configuración de fábrica?;0
+¿El producto cumple con normativas de accesibilidad?;0
+¿Hay algún canal de YouTube con tutoriales oficiales?;0
+¿Puedo sincronizarlo con mis otros dispositivos?;0
+¿Tiene alguna función especial que lo diferencie de la competencia?;0
+¿Es necesario crear una cuenta para utilizarlo?;0
+¿Qué accesorios son compatibles con este modelo?;0
+¿Cómo se configura la conexión inicial?;0
+¿Tiene opción para copias de seguridad automáticas?;0
+¿Hay disponibles actualizaciones de software regularmente?;0
+¿Puedo instalar aplicaciones de terceros?;0
+¿El embalaje es reciclable?;0
+¿Qué sistema operativo utiliza?;0
+¿Tiene modo nocturno o de bajo consumo?;0
+¿Es compatible con redes 5G?;0
+¿Cómo se configura la sincronización automática?;0
+¿Tiene detección de movimiento integrada?;0
+¿Existe un foro oficial para usuarios?;0
+¿Qué tipo de pantalla utiliza este dispositivo?;0
+¿Viene con protector de pantalla preinstalado?;0
+¿Puedo controlar varios dispositivos desde una misma app?;0
+¿Tiene función de grabación programada?;0
+¿Es compatible con realidad aumentada?;0
+¿Qué formato de archivos soporta?;0
+¿Es posible configurar perfiles de usuario diferentes?;0
+¿Cómo se activa el control parental?;0
+¿Tiene función de reconocimiento facial?;0
+¿Qué tipo de antena incorpora?;0
+¿Se puede vincular a redes sociales directamente?;0
+¿Viene en diferentes colores o solo este modelo?;0
+¿Es compatible con mi sistema de sonido actual?;0
+¿Tiene integración con servicios en la nube?;0
+¿Qué codecs de audio y video soporta?;0
+¿Cómo se actualiza manualmente el firmware?;0
+¿Tiene opción de uso compartido entre dispositivos?;0
+¿Es compatible con periféricos bluetooth?;0
+¿Viene con protección de pantalla preinstalada?;0
+¿Qué resolución máxima soporta?;0
+¿Tiene algún programa de fidelización para clientes?;0
+¿Cómo configuro las notificaciones push?;0
+¿Es posible ampliar la capacidad de almacenamiento?;0
+¿Tiene modo de privacidad o incógnito?;0
+¿Qué significa el código de error E-45?;0
+¿Hay disponible un servicio de instalación profesional?;0
+¿Cómo puedo saber si mi dispositivo es original?;0
+¿Tiene algún programa de recompra o renovación?;0
+¿Es compatible con cargadores inalámbricos?;0
+¿Qué resolución tiene la cámara integrada?;0
+¿Hay opción para desactivar la telemetría?;0
+No estoy seguro para qué sirve esta función;0
+Creo que hay un error en la descripción del producto;0
+El manual no explica claramente cómo configurarlo;0
+¿Se supone que debe hacer este ruido al encenderse?;0
+La lista de especificaciones está incompleta;0
+No puedo encontrar esta función que mencionan;0
+¿Alguien puede explicarme cómo funciona el modo ahorro?;0
+El embalaje no incluía todos los accesorios mencionados;0
+Todavía estoy tratando de entender todas sus características;0
+¿Es normal que se caliente un poco durante el uso?;0
+No encuentro información sobre repuestos;0
+¿Dónde puedo descargar el manual completo?;0
+El producto funciona, pero no entiendo todas sus funciones;0
+¿Qué significa el indicador amarillo parpadeante?;0
+La configuración inicial me resultó algo confusa;0
+No estoy seguro si lo estoy usando correctamente;0
+¿Este modelo es el más reciente o hay uno nuevo?;0
+No sé si instalé correctamente los controladores;0
+¿Es necesario registrar el producto en línea?;0
+La interfaz es diferente a la que muestra en el manual;0
+El material parece de buena calidad pero algo frágil;0
+No tengo claro si esto es compatible con mi equipo;0
+¿Cuánto tiempo tardan en responder al soporte técnico?;0
+Tengo algunas dudas sobre la garantía internacional;0
+¿El firmware se actualiza automáticamente?;0
+No estoy seguro de si necesito algún accesorio adicional;0
+¿Alguien ha probado conectarlo con dispositivos antiguos?;0
+La configuración inicial toma más tiempo del indicado;0
+El producto viene con instrucciones básicas pero insuficientes;0
+La aplicación oficial no está disponible en mi país;2
+La pantalla murió completamente después de un mes;2
+¿Por qué el dispositivo pierde toda la configuración al reiniciarse?;2
+El puerto USB dejó de funcionar tras la primera semana;2
+¿Cómo es posible que la batería dure la mitad de lo anunciado?;2
+Mi unidad llegó con piezas sueltas dentro;2
+El producto se sobrecalienta hasta ser imposible tocarlo;2
+La conexión a internet falla constantemente sin solución;2
+¿Es normal que el dispositivo emita humo durante la carga?;2
+La cámara produce imágenes con una mancha negra en el centro;2
+El sistema operativo se corrompe con cualquier actualización;2
+¿Por qué se reinicia solo cuando más lo necesito?;2
+Después de un mes, el plástico comenzó a agrietarse;2
+La aplicación pierde todos mis datos regularmente;2
+No puedo creer lo rápido que se rompió el botón de encendido;2
+El dispositivo deja de responder al tacto aleatoriamente;2
+¿Cómo puede ser que la memoria interna sea la mitad de lo anunciado?;2
+La función principal por la que lo compré no funciona;2
+El soporte técnico me ha ignorado durante semanas;2
+Tras la actualización, el dispositivo quedó completamente inutilizable;2
+El sensor de proximidad funciona una vez de cada diez;2
+Mi teléfono se calienta tanto que temo que explote;2
+La calidad de audio es terrible, parece un juguete barato;2
+¿Por qué la pantalla tiene tantos píxeles muertos después de un uso normal?;2
+El reconocimiento facial no ha funcionado ni una sola vez;2
+Nunca había visto un producto que fallara de tantas maneras;2
+La batería comenzó a hincharse después de tres semanas;2
+El acabado del producto se deteriora con solo mirarlo;2
+La cámara hace fotos tan malas que parecen de los años 90;2
+¿Alguien más tiene problemas con las falsas pulsaciones en pantalla?;2
+No es posible actualizar el sistema operativo sin que falle;2
+¿Cómo puedo reclamar por un producto tan defectuoso?;0
+El modo automático nunca funciona como debería;2
+La conectividad Bluetooth se corta cada pocos minutos;2
+No responde cuando más lo necesito;2
+El material se siente extremadamente barato;2
+La resistencia al agua es completamente falsa;2
+El sensor de temperatura marca valores aleatorios;2
+¿Es normal que el cable se caliente tanto durante la carga?;2
+La aplicación se cierra sola constantemente;2
+Después de dos semanas ya tiene teclas atascadas;2
+La batería no dura ni la mitad de lo prometido;2
+Cuando lo uso a máxima potencia se apaga solo;2
+El sistema de refrigeración hace un ruido insoportable;2
+¿Por qué la velocidad de procesamiento cae tanto tras unos minutos?;2
+El reconocimiento de voz nunca entiende mis comandos;2
+La integración con otros dispositivos es inexistente;2
+El producto se me ha roto con un uso totalmente normal;2
+La sensibilidad del táctil es terrible en los bordes;2
+El micrófono capta más ruido ambiente que mi voz;2
+La cámara produce fotos sobre-expuestas constantemente;2
+El dispositivo no conserva ninguna configuración al reiniciarse;2
+¿Por qué el acabado se deteriora tan rápidamente?;2
+La señal WiFi se pierde aunque esté junto al router;2
+¿Alguien más ha tenido problemas con la conexión HDMI?;2
+No encuentro soporte en español aunque lo prometan;0
+¿Este modelo es compatible con accesorios de terceros?;0
+No entiendo bien la diferencia entre este modelo y el anterior;0
+¿Cuándo estará disponible en otros colores?;0
+Busco información sobre el programa de reemplazo de baterías;0
+¿Existe algún grupo de usuarios para compartir experiencias?;0
+No veo claramente cómo ajustar la configuración avanzada;0
+¿El producto viene con las baterías necesarias incluidas?;0
+Me gustaría saber las dimensiones exactas antes de comprar;0
+No encuentro esta función específica que necesito;0
+¿Tiene alguna certificación de seguridad internacional?;0
+No estoy seguro si este modelo incluye el adaptador;0
+¿Cómo puedo verificar si mi unidad está dentro del lote defectuoso?;0
+No encuentro tutoriales específicos para mi caso de uso;0
+¿Se puede utilizar sin crear una cuenta online?;0
+No estoy seguro de cuál es la versión correcta para mi país;0
+¿Es posible desinstalar las aplicaciones preinstaladas?;0
+El manual no menciona esta característica específica;0
+¿Cuál es la diferencia entre el modelo básico y el premium?;0
+No encuentro el número de serie en mi unidad;0
+¿Viene con algún tipo de funda protectora?;0
+El empaquetado no coincide con lo que vi en la web;0
+No entiendo bien algunos iconos de la interfaz;0
+¿Existen accesorios oficiales disponibles?;0
+El procedimiento de registro de garantía no está claro;0
+No sé cómo interpretar los códigos de error;0
+¿Con qué frecuencia se recomienda el mantenimiento rutinario?;0
+No encuentro respuestas a mis preguntas técnicas;0
+¿Hay algún foro oficial donde consultar dudas?;0
+La descripción del producto no menciona esta limitación;0
+No puedo determinar si necesito el adaptador especial;0
+¿Este dispositivo requiere calibración periódica?;0
+No encuentro estadísticas de uso en el panel;0
+¿Se puede utilizar en condiciones de temperatura extrema?;0
+No veo claramente cómo configurar los permisos;0
+La rotación automática de pantalla nunca funciona correctamente;2
+Los colores de pantalla son completamente diferentes a los anunciados;2
+La tarjeta SD dejó de ser reconocida tras un mes;2
+El sistema de carga rápida dejó de funcionar en dos semanas;2
+El acabado exterior se desprende solo con el uso normal;2
+¿Por qué la duración de la batería disminuye tan dramáticamente?;2
+El dispositivo se bloquea cada vez que abro más de tres aplicaciones;2
+La cámara frontal produce imágenes con un tinte verdoso;2
+¿Es normal que la cubierta trasera se caliente tanto?;2
+Las actualizaciones automáticas han arruinado la funcionalidad;2
+El producto emite un pitido intermitente muy molesto;2
+El sistema de notificaciones falla aleatoriamente;2
+Después de un mes, la pantalla muestra líneas verticales;2
+El botón de volumen se ha quedado hundido permanentemente;2
+La capacidad de almacenamiento real es un 30% menor que la anunciada;2
+¿Por qué el dispositivo se reinicia cuando lo conecto al cargador?;2
+El sensor de huellas dactilares funciona una vez de cada cinco;2
+La conexión a la red móvil se pierde constantemente;2
+La calidad de construcción es mucho peor que generaciones anteriores;2
+El dispositivo llegó con un rasguño visible en la carcasa;2
+La pantalla tiene una sensibilidad terrible con protector;2
+¿Cómo es posible que un dispositivo nuevo tenga tantos fallos?;2
+El adaptador de corriente se sobrecalienta peligrosamente;2
+La función de carga inalámbrica nunca ha funcionado;2
+Después de la actualización, la cámara produce fotos oscuras;2
+El rendimiento gráfico es mucho peor de lo anunciado;2
+La vibración es tan débil que nunca noto las notificaciones;2
+El reconocimiento facial no funciona con gafas;2
+¿Alguien más tiene problemas con el GPS? El mío es completamente impreciso;2
+La impermeabilización falló en el primer contacto con agua;2
+No consigo hacer que el modo nocturno funcione correctamente;0
+¿Es necesario algún mantenimiento especial para este modelo?;0
+Estoy confundido sobre cómo configurar las notificaciones;0
+¿Cuál es la vida útil esperada de este producto?;0
+No encuentro la opción para restablecer a valores de fábrica;0
+¿Se pueden importar datos de modelos antiguos?;0
+El producto cumple su función básica, pero esperaba más;0
+No encuentro información sobre compatibilidad futura;0
+¿Este dispositivo soporta el nuevo estándar de conectividad?;0
+La información sobre garantía internacional no está clara;0
+No estoy seguro si debo actualizar al último firmware;0
+¿Existe alguna limitación regional para este producto?;0
+El proceso de configuración inicial es algo complicado;0
+No entiendo bien el sistema de menús;0
+¿Es posible desactivar algunas funciones para ahorrar batería?;0
+No encuentro información sobre el servicio técnico local;0
+¿Cómo sé si estoy utilizando el cargador adecuado?;0
+La descripción no menciona si incluye este accesorio;0
+No puedo encontrar esta característica mencionada en la publicidad;0
+¿Es compatible con los accesorios del modelo anterior?;0
+El modo de ahorro de energía limita demasiado las funciones;0
+No sé si el dispositivo está guardando mis configuraciones;0
+¿Existen versiones regionales diferentes de este producto?;0
+No encuentro respuesta sobre la frecuencia de actualizaciones;0
+¿Cómo puedo verificar si mi dispositivo es original?;0
+No consigo sincronizar con mi otro dispositivo;0
+¿El producto requiere algún tipo de suscripción?;0
+La interfaz de usuario no es muy intuitiva al principio;0
+No encuentro información sobre el servicio postventa;0
+¿Se puede utilizar mientras se está cargando?;0
+Después de un mes, la velocidad del sistema es notablemente inferior;2
+El reconocimiento de gestos falla constantemente;2
+¿Por qué la memoria RAM disponible es menor de lo especificado?;2
+La carga inalámbrica funciona solo en posiciones muy específicas;2
+Las actualizaciones de firmware causan más problemas que soluciones;2
+La pantalla tiene un retraso notable al tacto;2
+El dispositivo se reinicia al conectar cualquier periférico;2
+La cámara no enfoca correctamente en condiciones normales de luz;2
+¿Cómo es posible que el wifi solo funcione a media potencia?;2
+El almacenamiento se llena misteriosamente sin instalar nada;2
+La carcasa ya muestra signos de desgaste después de un uso mínimo;2
+El reconocimiento de voz confunde palabras básicas constantemente;2
+La batería se descarga completamente en modo espera;2
+A los pocos días de uso ya tiene píxeles muertos en pantalla;2
+¿Por qué el audio distorsiona a volumen medio?;2
+El acabado metálico comenzó a oxidarse en las esquinas;2
+La función de estabilización de video no funciona en absoluto;2
+El dispositivo se bloquea al utilizar aplicaciones básicas;2
+La calidad de las llamadas es terrible, con eco constante;2
+¿Es normal que el dispositivo rechace tarjetas SD oficiales?;2
+Después de la actualización, la duración de la batería se redujo a la mitad;2
+El botón home dejó de responder después de una semana;2
+El giroscopio nunca calibra correctamente;2
+La pantalla tiene una sensibilidad terrible en los bordes;2
+El sistema de refrigeración hace un ruido excesivo con uso moderado;2
+El producto llegó con la caja dañada y presenta abolladuras;2
+La pantalla táctil no responde en ciertas áreas;2
+Se apaga aleatoriamente sin previo aviso;2
+La aplicación oficial no es compatible con mi dispositivo;2
+El sensor de proximidad no funciona correctamente;2
+Emite un pitido constante muy molesto;2
+Las notificaciones no aparecen aunque están configuradas;2
+El lector de huellas dactilares deja de funcionar tras unos minutos;2
+La batería se descarga aun estando apagado;2
+El GPS no logra establecer ubicación precisa;2
+Los botones laterales no responden al presionarlos;2
+El dispositivo se reinicia constantemente en bucle;2
+La calidad de audio es pésima, hay mucho ruido de fondo;2
+El reconocimiento de voz falla constantemente;2
+El dispositivo se bloquea al intentar actualizar el sistema;2
+La pantalla muestra colores distorsionados;2
+No sincroniza correctamente con la nube;2
+El acabado del producto se degrada rápidamente;2
+El altavoz suena distorsionado a volumen medio;2
+Las fotografías salen borrosas independientemente de la luz;2
+El wifi se desconecta constantemente sin razón aparente;2
+El producto consume mucha más energía de la especificada;2
+La cámara frontal no funciona en videollamadas;2
+El teclado virtual se bloquea frecuentemente;2
+El sensor de temperatura marca valores incorrectos;2
+La resistencia al agua no funciona como se publicita;2
+El control remoto deja de funcionar tras una semana de uso;2
+El cable de alimentación se sobrecalienta peligrosamente;2
+La pantalla muestra píxeles muertos en varias zonas;2
+El sistema de refrigeración hace un ruido excesivo;2
+El detector de movimiento se activa sin razón aparente;2
+La función de carga rápida dejó de funcionar;2
+El dispositivo no reconoce la tarjeta SIM;2
+La conexión Bluetooth se corta intermitentemente;2
+El acabado de las teclas se deterioró rápidamente;2
+La calibración del giroscopio es inexacta;2
+El modo nocturno no reduce la luz azul como debería;2
+El lector de tarjetas SD no reconoce ningún formato;2
+La sincronización con otros dispositivos falla constantemente;2
+El micrófono capta demasiado ruido ambiente;2
+El dispositivo se calienta excesivamente en modo reposo;2
+La función NFC dejó de funcionar tras la primera semana;2
+La pantalla tiene un tinte amarillento anormal;2
+El asistente de voz se activa solo sin que nadie lo solicite;2
+El zoom de la cámara produce imágenes muy pixeladas;2
+Las notificaciones aparecen con mucho retraso;2
+El altavoz emite un eco molesto durante las llamadas;2
+La impresión sale con rayas horizontales en todas las hojas;2
+El sistema de ventilación acumula polvo rápidamente;2
+El detector de humo se activa sin motivo aparente;2
+La función de autoenfoque de la cámara no funciona;2
+La retroiluminación del teclado falla intermitentemente;2
+El dispositivo se bloquea al conectarlo al ordenador;2
+La resistencia a caídas no es como se anunciaba;2
+El módulo GPS consume batería incluso desactivado;2
+El sistema de audio genera un zumbido constante de fondo;2
+La batería se hinchó después de dos meses;2
+La estabilización de imagen no funciona correctamente;2
+La conectividad 4G falla en zonas de buena cobertura;2
+El touchpad es impreciso en los bordes;2
+La cámara trasera no enfoca objetos cercanos;2
+La conexión HDMI genera distorsión en la imagen;2
+El disco duro hace ruidos extraños al arrancar;2
+La función de autolimpieza no elimina las manchas;2
+El sensor de luz ambiental no ajusta correctamente el brillo;2
+La interfaz se congela al abrir múltiples aplicaciones;2
+El motor de vibración hace un ruido mecánico anormal;2
+El escáner de códigos no reconoce formatos comunes;2
+La carcasa se agrieta fácilmente en las esquinas;2
+El reconocimiento facial no funciona con poca luz;2
+La función de llamadas de emergencia no se activa correctamente;2
+El puerto de carga se aflojó después de pocos usos;2
+El módulo de radio FM capta mucha interferencia;2
+El acabado del producto se destiñe con facilidad;2
+La sincronización de datos entre dispositivos es incompleta;2
+La resistencia a salpicaduras no funcionó como esperaba;2
+Los comandos por voz son mal interpretados constantemente;2
+El sistema de filtración se obstruye demasiado rápido;2
+La cámara gran angular distorsiona excesivamente la imagen;2
+El sensor de caídas se activa sin motivo aparente;2
+La función de ahorro de energía no reduce el consumo;2
+El lector de códigos QR no funciona con la mayoría de formatos;2
+La impermeabilización falló en la primera exposición al agua;2
+El sistema de audio estéreo solo funciona en un canal;2
+El reconocimiento de escritura a mano es muy impreciso;2
+El sistema de bloqueo automático falla frecuentemente;2
+La función de compartir archivos no reconoce dispositivos cercanos;2
+El sistema de enfriamiento deja de funcionar tras uso prolongado;2
+El detector de presencia no responde correctamente;2
+La función de carga inalámbrica es extremadamente lenta;2
+La recepción de señal es mucho más débil que mi dispositivo anterior;2
+La pantalla tiene fugas de luz en los bordes;2
+El sistema de navegación calcula rutas erróneas constantemente;2
+La sincronización automática consume excesiva batería;2
+La función de captura de pantalla produce imágenes corrupta;2
