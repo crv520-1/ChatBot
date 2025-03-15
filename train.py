@@ -105,7 +105,7 @@ def probar_chatbot(model, tokenizer):
             print("Respuesta: Necesita urgente asistencia técnica")
 
 if __name__ == "__main__":
-    archivo_datos = "data/dataset.txt"  # Asegúrate de tener un archivo con el formato correcto
+    archivo_datos = "data/dataset2.txt"  # Asegúrate de tener un archivo con el formato correcto
     preguntas, respuestas = cargar_datos(archivo_datos)
     x_train, y_train, tokenizer = preprocesar_datos(preguntas, respuestas)
     modelo = construir_modelo(tokenizer)

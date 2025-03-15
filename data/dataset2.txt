@@ -821,3 +821,4 @@ La pantalla tiene fugas de luz en los bordes;2
 El sistema de navegación calcula rutas erróneas constantemente;2
 La sincronización automática consume excesiva batería;2
 La función de captura de pantalla produce imágenes corrupta;2
+no funciona el boton;2
