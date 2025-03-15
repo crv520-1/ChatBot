@@ -1,37 +1,52 @@
 <!DOCTYPE html>
 <html class="body">
 <head>
-    <title>Opiniones Diego</title>
+    <title>Asistente de Atención al Cliente</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Update this line to use the correct path -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+    <style>
+        .halago { color: #28a745; }
+        .info { color: #007bff; }
+        .tecnico { color: #dc3545; }
+        .result-details {
+            margin-top: 10px;
+            font-size: 0.9em;
+        }
+        .confidence {
+            margin-top: 5px;
+            font-size: 0.8em;
+            color: #6c757d;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <h1>Opiniones Diego</h1>
+        <h1>Asistente de Atención al Cliente</h1>
         <div class="form-container">
             <div class="input-group">
-                <textarea id="opinion" placeholder="Escribe tu opinión aquí..."></textarea>
+                <textarea id="mensaje" placeholder="Escribe lo que dice el cliente aquí..."></textarea>
             </div>
-            <button class="submit-btn" onclick="evaluarOpinion()">Evaluar</button>
+            <button class="submit-btn" onclick="evaluarMensaje()">Analizar</button>
         </div>
         
         <div class="result-container hidden" id="resultado">
             <div class="result-box">
-                <div id="opinion-text"></div>
+                <div id="mensaje-text"></div>
                 <div class="sentiment">
-                    <span id="sentiment-value" class="neutral">PROCESANDO...</span>
+                    <span id="categoria-value">PROCESANDO...</span>
                 </div>
+                <div class="result-details" id="descripcion-text"></div>
+                <div class="confidence" id="confianza-text"></div>
             </div>
         </div>
     </div>
 
     <script>
-        function evaluarOpinion() {
-            const opinion = document.getElementById('opinion').value;
-            if (!opinion) {
-                alert('Por favor ingresa una opinión');
+        function evaluarMensaje() {
+            const mensaje = document.getElementById('mensaje').value;
+            if (!mensaje) {
+                alert('Por favor ingresa el mensaje del cliente');
                 return;
             }
 
@@ -40,30 +55,33 @@
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                body: JSON.stringify({ opinion: opinion }),
+                body: JSON.stringify({ mensaje: mensaje }),
             })
             .then(response => response.json())
             .then(data => {
                 const resultado = document.getElementById('resultado');
                 resultado.classList.remove('hidden');
                 
-                document.getElementById('opinion-text').textContent = data.opinion;
+                document.getElementById('mensaje-text').textContent = data.mensaje;
                 
-                const sentimentValue = document.getElementById('sentiment-value');
-                sentimentValue.textContent = data.resultado;
+                const categoriaValue = document.getElementById('categoria-value');
+                categoriaValue.textContent = data.categoria;
                 
-                sentimentValue.className = '';
-                if (data.resultado === 'POSITIVO') {
-                    sentimentValue.classList.add('positive');
-                } else if (data.resultado === 'NEGATIVO') {
-                    sentimentValue.classList.add('negative');
-                } else {
-                    sentimentValue.classList.add('neutral');
+                document.getElementById('descripcion-text').textContent = data.descripcion;
+                document.getElementById('confianza-text').textContent = `Confianza: ${data.confianza}%`;
+                
+                categoriaValue.className = '';
+                if (data.categoria === 'HALAGO') {
+                    categoriaValue.classList.add('halago');
+                } else if (data.categoria === 'NECESITA_INFO') {
+                    categoriaValue.classList.add('info');
+                } else if (data.categoria === 'NECESITA_TECNICO') {
+                    categoriaValue.classList.add('tecnico');
                 }
             })
             .catch(error => {
                 console.error('Error:', error);
-                alert('Error al evaluar la opinión');
+                alert('Error al analizar el mensaje');
             });
         }
     </script>

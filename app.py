@@ -42,8 +42,18 @@ def clasificar_texto(texto, modelo, tokenizer):
     texto_vectorizado = tokenizer([texto])
     prediccion = modelo.predict(texto_vectorizado)
     indice = np.argmax(prediccion)
-    categorias = ["NEUTRO", "POSITIVO", "NEGATIVO"]
-    return categorias[indice], float(prediccion[0][indice])
+    categorias = ["NECESITA_INFO", "HALAGO", "NECESITA_TECNICO"]
+    categoria = categorias[indice]
+    
+    # Mensaje descriptivo según la categoría
+    if categoria == "HALAGO":
+        mensaje = "Halago al producto detectado"
+    elif categoria == "NECESITA_INFO":
+        mensaje = "Necesita información adicional sobre el producto"
+    else:
+        mensaje = "Necesita urgente asistencia técnica"
+        
+    return categoria, mensaje, float(prediccion[0][indice])
 
 # Cargar modelo y tokenizer al iniciar la aplicación
 modelo, tokenizer = cargar_modelo()
@@ -64,9 +74,9 @@ def evaluar():
             try:
                 data = json.loads(request.data.decode('utf-8'))
                 print("JSON data:", data)
-                if 'opinion' in data:
-                    texto = data['opinion']
-                    print(f"Using opinion from JSON: '{texto}'")
+                if 'mensaje' in data:
+                    texto = data['mensaje']
+                    print(f"Using message from JSON: '{texto}'")
                 else:
                     texto = ""
             except json.JSONDecodeError:
@@ -81,12 +91,13 @@ def evaluar():
             print("No text provided")
             return jsonify({"error": "No se proporcionó texto para evaluar"})
         
-        categoria, confianza = clasificar_texto(texto, modelo, tokenizer)
+        categoria, mensaje, confianza = clasificar_texto(texto, modelo, tokenizer)
         print(f"Classification result: {categoria} ({confianza})")
         
         return jsonify({
-            "opinion": texto,  # Changed to match frontend
-            "resultado": categoria,  # Changed to match frontend
+            "mensaje": texto,
+            "categoria": categoria,
+            "descripcion": mensaje,
             "confianza": round(confianza * 100, 2)
         })
     except Exception as e:

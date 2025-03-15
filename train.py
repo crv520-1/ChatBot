@@ -84,18 +84,28 @@ def guardar_tokenizer(tokenizer, path='models/tokenizer'):
 
 # Probar el chatbot
 def probar_chatbot(model, tokenizer):
+    ''' 0: NECESITA_INFO (para frases que solicitan información)
+        1: HALAGO (para frases que elogian el producto)
+        2: NECESITA_TECNICO (para frases que indican problemas técnicos)'''
     while True:
-        pregunta = input("Tú: ")
-        if pregunta.lower() == "salir":
+        texto = input("Cliente dice: ")
+        if texto.lower() == "salir":
             break
-        pregunta_vectorizada = tokenizer([pregunta])
-        respuesta = model.predict(pregunta_vectorizada)
-        indice = np.argmax(respuesta)
-        categorias = ["NEUTRO", "POSITIVO", "NEGATIVO"]
-        print("Respuesta: ", categorias[indice])
+        texto_vectorizado = tokenizer([texto])
+        prediccion = model.predict(texto_vectorizado)
+        indice = np.argmax(prediccion)
+        categorias = ["NECESITA_INFO", "HALAGO", "NECESITA_TECNICO"]
+        categoria = categorias[indice]
+        
+        if categoria == "HALAGO":
+            print("Respuesta: Halago al producto detectado")
+        elif categoria == "NECESITA_INFO":
+            print("Respuesta: Necesita información adicional sobre el producto")
+        else:
+            print("Respuesta: Necesita urgente asistencia técnica")
 
 if __name__ == "__main__":
-    archivo_datos = "data/datasetDefinitivo.txt"  # Asegúrate de tener un archivo con preguntas y respuestas
+    archivo_datos = "data/dataset.txt"  # Asegúrate de tener un archivo con el formato correcto
     preguntas, respuestas = cargar_datos(archivo_datos)
     x_train, y_train, tokenizer = preprocesar_datos(preguntas, respuestas)
     modelo = construir_modelo(tokenizer)
