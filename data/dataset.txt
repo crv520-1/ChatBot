@@ -3595,6 +3595,7 @@ El dispositivo no conserva ninguna configuración al reiniciarse;2
 ¿Por qué el acabado se deteriora tan rápidamente?;2
 La señal WiFi se pierde aunque esté junto al router;2
 ¿Alguien más ha tenido problemas con la conexión HDMI?;2
+Me aparece un error al intentar configurarlo. ; 2
 No encuentro soporte en español aunque lo prometan;0
 ¿Este modelo es compatible con accesorios de terceros?;0
 No entiendo bien la diferencia entre este modelo y el anterior;0
