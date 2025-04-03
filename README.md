@@ -71,6 +71,10 @@ Lo datos que hemos usado a modo de prueba son:
 5. "La calidad de construcción supera cualquier expectativa" - Bien
 
 ### Con epochs: 200
+![alt text](capturas/Prueba200.png)
+
+Tardó unos 4 minutos aproximadamente con un Intel Core i5-13600KF.
+
 **Necesita información (0)**
 1. "¿El dispositivo incluye adaptador para corriente europea?" - Bien
 2. "¿Cuál es el período de garantía internacional?" - Bien
@@ -93,6 +97,10 @@ Lo datos que hemos usado a modo de prueba son:
 5. "La calidad de construcción supera cualquier expectativa" - Bien
 
 ### Con epochs: 2000
+![alt text](capturas/Prueba.png)
+
+Tardó aproximadamente unos 15 minutos con un Intel Core i5-13600KF.
+
 **Necesita información (0)**
 1. "¿El dispositivo incluye adaptador para corriente europea?" - Bien
 2. "¿Cuál es el período de garantía internacional?" - Bien
