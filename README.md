@@ -23,3 +23,93 @@ Ambos casos anteriores nos dan que se necesita un técnico cuando lo único que 
 ![alt text](capturas/Tilde+Signos.jpeg)
 
 Como hemos podido observar en estos dos últimos ejemplos al poner correctamente las tildes ya nos valdría para que nos de correctamente el resultado, aunque con bastantes dudas, ya que la confianza de la IA es casi un 51%, sin embargo al poner tanto las tildes como los signos ese porcentaje de confianza sube estando más segura de que el usuario necesita información.
+
+Lo datos que hemos usado a modo de prueba son:
+
+**Necesita información (0)**
+1. "¿El dispositivo incluye adaptador para corriente europea?"
+2. "¿Cuál es el período de garantía internacional?"
+3. "¿Puedo pagar a plazos este producto?"
+4. "¿Tiene modo de visualización nocturna?"
+5. "¿Es compatible con el nuevo sistema operativo Android 14?"
+
+**Necesita técnico (2)**
+1. "El escáner de iris no responde desde ayer"
+2. "La pantalla se ha vuelto completamente amarilla"
+3. "El lector de tarjetas SD hace ruidos metálicos extraños"
+4. "La batería se hincha cuando está cargando"
+5. "El dispositivo emite olores químicos al encenderlo"
+
+**Halago (1)**
+1. "Este producto ha revolucionado mi forma de trabajar"
+2. "La facilidad de uso es extraordinaria"
+3. "Nunca había tenido un dispositivo tan eficiente"
+4. "El servicio al cliente fue excepcional y muy profesional"
+5. "La calidad de construcción supera cualquier expectativa"
+
+## PRUEBAS
+### Con epochs: 20
+**Necesita información (0)**
+1. "¿El dispositivo incluye adaptador para corriente europea?" - Bien
+2. "¿Cuál es el período de garantía internacional?" - Bien
+3. "¿Puedo pagar a plazos este producto?" - Bien
+4. "¿Tiene modo de visualización nocturna?" - Bien
+5. "¿Es compatible con el nuevo sistema operativo Android 14?" - Bien
+
+**Necesita técnico (2)**
+1. "El escáner de iris no responde desde ayer" - Bien
+2. "La pantalla se ha vuelto completamente amarilla" - Bien
+3. "El lector de tarjetas SD hace ruidos metálicos extraños" - Bien
+4. "La batería se hincha cuando está cargando" - Bien
+5. "El dispositivo emite olores químicos al encenderlo" - Bien
+
+**Halago (1)**
+1. "Este producto ha revolucionado mi forma de trabajar" - Bien
+2. "La facilidad de uso es extraordinaria" - Mal. Detecta que se necesita un técnico.
+3. "Nunca había tenido un dispositivo tan eficiente" - Mal. Detecta que se necesita un técnico.
+4. "El servicio al cliente fue excepcional y muy profesional" - Bien
+5. "La calidad de construcción supera cualquier expectativa" - Bien
+
+### Con epochs: 200
+**Necesita información (0)**
+1. "¿El dispositivo incluye adaptador para corriente europea?" - Bien
+2. "¿Cuál es el período de garantía internacional?" - Bien
+3. "¿Puedo pagar a plazos este producto?" - Bien
+4. "¿Tiene modo de visualización nocturna?" - Bien
+5. "¿Es compatible con el nuevo sistema operativo Android 14?" - Bien
+
+**Necesita técnico (2)**
+1. "El escáner de iris no responde desde ayer" - Bien
+2. "La pantalla se ha vuelto completamente amarilla" - Bien
+3. "El lector de tarjetas SD hace ruidos metálicos extraños" - Bien
+4. "La batería se hincha cuando está cargando" - Bien
+5. "El dispositivo emite olores químicos al encenderlo" - Bien
+
+**Halago (1)**
+1. "Este producto ha revolucionado mi forma de trabajar" - Bien
+2. "La facilidad de uso es extraordinaria" - Mal. Detecta que se necesita un técnico.
+3. "Nunca había tenido un dispositivo tan eficiente" - Mal. Detecta que se necesita un técnico.
+4. "El servicio al cliente fue excepcional y muy profesional" - Bien
+5. "La calidad de construcción supera cualquier expectativa" - Bien
+
+### Con epochs: 2000
+**Necesita información (0)**
+1. "¿El dispositivo incluye adaptador para corriente europea?" - Bien
+2. "¿Cuál es el período de garantía internacional?" - Bien
+3. "¿Puedo pagar a plazos este producto?" - Bien
+4. "¿Tiene modo de visualización nocturna?" - Bien
+5. "¿Es compatible con el nuevo sistema operativo Android 14?" - Bien
+
+**Necesita técnico (2)**
+1. "El escáner de iris no responde desde ayer" - Bien
+2. "La pantalla se ha vuelto completamente amarilla" - Bien
+3. "El lector de tarjetas SD hace ruidos metálicos extraños" - Bien
+4. "La batería se hincha cuando está cargando" - Bien
+5. "El dispositivo emite olores químicos al encenderlo" - Bien
+
+**Halago (1)**
+1. "Este producto ha revolucionado mi forma de trabajar" - Bien
+2. "La facilidad de uso es extraordinaria" - Mal. Detecta que se necesita un técnico.
+3. "Nunca había tenido un dispositivo tan eficiente" - Mal. Detecta que se necesita un técnico.
+4. "El servicio al cliente fue excepcional y muy profesional" - Bien
+5. "La calidad de construcción supera cualquier expectativa" - Bien
