@@ -45,7 +45,7 @@ def construir_modelo(tokenizer, num_clases=3):
 
 # Entrenar el modelo
 def entrenar_modelo(model, x_train, y_train):
-    model.fit(x_train, y_train, epochs=2000, batch_size=5, verbose=True)
+    model.fit(x_train, y_train, epochs=200, batch_size=5, verbose=True)
 
 # Guardar el modelo
 def guardar_modelo(model, path='models/modelo.keras'):
