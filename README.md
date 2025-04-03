@@ -109,15 +109,15 @@ Tardó aproximadamente unos 15 minutos con un Intel Core i5-13600KF.
 5. "¿Es compatible con el nuevo sistema operativo Android 14?" - Bien
 
 **Necesita técnico (2)**
-1. "El escáner de iris no responde desde ayer" - Bien
-2. "La pantalla se ha vuelto completamente amarilla" - Bien
-3. "El lector de tarjetas SD hace ruidos metálicos extraños" - Bien
-4. "La batería se hincha cuando está cargando" - Bien
-5. "El dispositivo emite olores químicos al encenderlo" - Bien
+1. "El escáner de iris no responde desde ayer" - Bien (Mal con el del seminario)
+2. "La pantalla se ha vuelto completamente amarilla" - Bien (Mal con el del seminario)
+3. "El lector de tarjetas SD hace ruidos metálicos extraños" - Bien (Mal con el del seminario)
+4. "La batería se hincha cuando está cargando" - Bien (Mal con el del seminario)
+5. "El dispositivo emite olores químicos al encenderlo" - Bien (Mal con el del seminario)
 
 **Halago (1)**
-1. "Este producto ha revolucionado mi forma de trabajar" - Bien
-2. "La facilidad de uso es extraordinaria" - Mal. Detecta que se necesita un técnico.
-3. "Nunca había tenido un dispositivo tan eficiente" - Mal. Detecta que se necesita un técnico.
+1. "Este producto ha revolucionado mi forma de trabajar" - Bien (Mal con el del seminario)
+2. "La facilidad de uso es extraordinaria" - Mal. Detecta que se necesita un técnico. (Bien con el del seminario)
+3. "Nunca había tenido un dispositivo tan eficiente" - Mal. Detecta que se necesita un técnico. (Mal con el del seminario)
 4. "El servicio al cliente fue excepcional y muy profesional" - Bien
 5. "La calidad de construcción supera cualquier expectativa" - Bien

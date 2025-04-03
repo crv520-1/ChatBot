@@ -1,0 +1,662 @@
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia?;2
+No tengo la menor idea de qué hacer, ¿me puedes socorrer?;0
+No tengo idea de qué hacer, ¿puedes socorrerme?;0
+¿Cuentan con servicio de atención técnica a domicilio?;2
+El equipo ha sido restaurado y está funcionando eficientemente;1
+¿Puedes darme una mano con esto?;0
+Requiero asistencia de un técnico en mi domicilio;2
+¿Pueden programar diagnóstico para mi maquinaria pesada?;2
+Hemos completado con éxito las reparaciones del equipo;1
+El equipo ha sido restablecido con éxito;1
+Se produjo un malfuncionamiento inesperado;0
+Necesito la presencia de un técnico en mi casa;2
+¿Puedes proporcionarme un poco de guía?;0
+Necesito que un técnico esté presente en mi casa;2
+Estoy buscando un profesional que pueda venir a mi residencia;2
+El equipo necesita la atención de un técnico en mi hogar;2
+El equipo está en su punto óptimo de funcionamiento;1
+Estoy en un callejón sin salida, necesito tu apoyo;0
+¿Puedes darme una mano con esto?;0
+El equipo está en su punto máximo de funcionamiento;1
+El equipo ha sido restablecido;1
+No puedo hacerlo solo, ¿puedes brindarme tu ayuda?;0
+No tengo idea de qué hacer, necesito orientación;0
+¿Alguien podría darme una ayuda rápida?;0
+Estoy en un callejón sin salida, necesito tu apoyo;0
+Hemos solucionado los problemas del equipo;1
+Estoy atrapado, ¿puedes socorrerme?;0
+Los problemas del equipo han sido abordados con éxito;1
+La puesta en marcha fue exitosa;1
+¿Alguien puede prestarme asesoramiento?;0
+¿Puedes darme una mano con esto?;0
+Por favor, ¿puedes asistirme con esto?;0
+Las correcciones han dado resultado y el equipo está operativo de nuevo;1
+Estoy completamente perdido, ¿puedes brindarme tu ayuda?;0
+Requiero asesoramiento técnico en mi domicilio;2
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+Necesito que me echen una mano con esto;0
+Necesito que un profesional venga a mi casa para inspeccionar el equipo;2
+Estoy bloqueado, ¿puedes echarme un cable?;0
+¿Pueden enviar a un especialista para que revise el equipo en mi residencia?;2
+¿Alguien podría darme una ayuda?;0
+El equipo ha sido restaurado y está funcionando de manera óptima;1
+Estoy completamente perdido, ¿puedes brindarme tu ayuda?;0
+Mi equipo no arranca: AYUDAEstoy en problemas, necesito que me saquen de aquí;0
+El equipo ha sido rehabilitado y está en excelentes condiciones;1
+Hemos resuelto todos los problemas del equipo;1
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo?;2
+Hemos resuelto con éxito todos los problemas del equipo;1
+Necesito apoyo, no sé cómo resolverlo por mí mismo;0
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+Por favor, ayúdame, estoy desorientado;0
+Estoy solicitando la asistencia de un técnico a domicilio;2
+Necesito que un técnico esté disponible en mi casa;2
+Requiero asesoramiento técnico en mi domicilio;2
+Necesito que un técnico esté presente en mi casa;2
+¿Pueden enviar un técnico certificado mañana?;2
+Estoy teniendo una emergencia técnica;0
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+Todas las cuestiones del equipo han sido resueltas;1
+Estoy en una situación complicada, necesito guía;0
+El equipo ha sido restablecido con éxito a su máximo rendimiento;1
+Necesito apoyo, no puedo hacerlo por mí mismo;0
+Por favor, envíen a alguien para que examine el equipo en mi hogar;2
+El equipo ha sido reparado y está en perfecto estado;1
+La instalación cumple con todos los estándares;1
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+El equipo está en excelentes condiciones;1
+El equipo ha sido restablecido con éxito a su pleno funcionamiento;1
+El equipo necesita la atención de un técnico en mi hogar;2
+Hemos completado con éxito todas las reparaciones del equipo;1
+Estoy buscando servicio técnico a domicilio;2
+Estoy en una situación complicada, necesito guía;0
+Hemos resuelto con éxito todos los problemas del equipo;1
+El mantenimiento preventivo fue exitoso;1
+Por favor, envíen a un experto para que examine el equipo en mi hogar;2
+Solicito evaluación de seguridad en mi sistema neumático;2
+Estoy en problemas, necesito que me saquen de aquí;0
+¿Puedes darme un apoyo rápido?;0
+¿Puedes guiarme en esto?;0
+Por favor, envíen a un experto para que evalúe el equipo en mi hogar;2
+Por favor, envíen a alguien para que revise el equipo en mi hogar;2
+Requiero soporte inmediato para fallo en cadena;0
+Hemos completado con éxito todas las reparaciones del equipo;1
+¿Ofrecen servicio de instalación profesional?;2
+Estoy en una situación complicada, necesito guía;0
+¿Puedes darme alguna orientación?;0
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más;1
+Hemos resuelto con éxito todos los problemas del equipo;1
+Estoy buscando un profesional que pueda venir a mi residencia;2
+El equipo está en pleno rendimiento;1
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia?;2
+Estoy perdido, ¿puedes socorrerme?;0
+Las correcciones han dado resultado y el equipo está operativo de nuevo;1
+Requiero asistencia, no tengo la menor idea de qué hacer;0
+Requiero asesoramiento técnico en mi domicilio;2
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia?;2
+El equipo ha sido reparado y está en su punto óptimo de funcionamiento;1
+El equipo está de nuevo en funcionamiento;1
+Estoy en problemas, ¿puedes orientarme?;0
+No logro interpretar las lecturas del panel;0
+Estoy en un apuro, ¿puedes auxiliarme?;0
+Por favor, envíen a alguien para que revise el equipo en mi hogar;2
+Solicito mantenimiento preventivo para el sistema de climatización;2
+Por favor, envíen a un experto para que examine el equipo en mi hogar;2
+¿Alguien puede prestarme asistencia?;0
+Estoy completamente perdido, ¿puedes brindarme tu ayuda?;0
+Estoy atrapado, ¿puedes socorrerme?;0
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+El mantenimiento preventivo fue ejecutado perfectamente;1
+Requiero asistencia, no tengo la menor idea de qué hacer;0
+Mi equipo no enciende;0
+El equipo ha sido restaurado y está funcionando de manera óptima;1
+Por favor, agenden una visita técnica en mi hogar;2
+Estoy en apuros, necesito tu ayuda;0
+El equipo requiere la presencia de un técnico en mi hogar;2
+El equipo ha sido reparado y está funcionando sin problemas;1
+¿Puedes socorrerme con esto?;0
+Por favor, ¿puedes asistirme con esto?;0
+El equipo está en su mejor estado de funcionamiento;1
+Necesito que un técnico esté disponible en mi casa;2
+Estoy desorientado con la nueva interfaz;0
+¿Puedes ofrecerme alguna dirección?;0
+Estoy buscando un técnico que pueda venir a mi residencia;2
+Estoy buscando un técnico que pueda venir a mi residencia;2
+Estoy solicitando una visita de un técnico a mi casa;2
+Por favor, envíen a un experto para que examine el equipo en mi hogar;2
+Necesito ayuda, no puedo resolverlo por mí mismo;0
+Hemos completado con éxito las reparaciones del equipo;1
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera eficaz;1
+Por favor, agenden una visita de un técnico en mi hogar;2
+Todo está en su lugar en el equipo;1
+¿Puedes proporcionarme algún apoyo?;0
+El equipo ha sido rehabilitado y está en condiciones ideales;1
+Estoy atrapado, ¿puedes socorrerme?;0
+Estoy completamente perdido, ¿puedes brindarme tu ayuda?;0
+El equipo ha sido reparado y está en excelentes condiciones;1
+Estoy en una situación complicada, necesito guía;0
+¿Puedes echarme una mano?;0
+Las reparaciones se han completado de manera exitosa;1
+Estoy perdido, ¿puedes orientarme?;0
+Estoy en un aprieto, necesito tu asistencia;0
+Estoy desorientado, necesito asistencia;0
+¿Puedes guiarme en esto?;0
+Por favor, envíen a alguien para que revise el equipo en mi hogar;2
+Necesito un poco de respaldo aquí;0
+¿Alguien podría darme una ayuda?;0
+Necesito apoyo, no sé cómo resolverlo por mí mismo;0
+Las correcciones han dado resultado y el equipo está operativo una vez más;1
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+¿Alguien podría darme una ayuda?;0
+¿Disponen de técnicos certificados para equipos de radiología?;2
+Estoy atrapado, ¿puedes socorrerme?;0
+Hemos superado con éxito todos los problemas del equipo;1
+¿Alguien puede prestarme asesoramiento?;0
+El equipo está en su punto máximo de funcionamiento;1
+No tengo idea de qué hacer, ¿puedes socorrerme?;0
+¿Alguien puede prestarme ayuda?;0
+Necesito que me echen una mano con esto;0
+El equipo está de nuevo en marcha;1
+Estoy en problemas, necesito que me saquen de aquí;0
+El rendimiento del equipo mejoró notablemente;1
+No puedo acceder a las funciones principales;0
+El equipo ha sido restablecido con éxito a su máximo rendimiento;1
+Necesito instrucciones paso a paso urgentemente;0
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+El equipo necesita la atención de un técnico en mi hogar;2
+Por favor, ¿puedes asistirme con esto?;0
+Requiero asistencia de un técnico en mi domicilio;2
+Estoy buscando un técnico que pueda venir a mi residencia;2
+Requiero diagnóstico de red eléctrica en mi fábrica;2
+Requiero asistencia, no tengo la menor idea de qué hacer;0
+Esto es un puñetero desastre;0
+Requiero asesoramiento técnico en mi domicilio;2
+Estoy perdido, ¿puedes socorrerme?;0
+Todo ha sido solucionado en el equipo;1
+Estoy bloqueado, necesito tu asistencia;0
+¿Puedes socorrerme con esto?;0
+¿Puedes darme alguna orientación?;0
+Necesito que un técnico esté presente en mi casa;2
+El equipo está en su máxima capacidad de operación;1
+No puedo hacerlo solo, necesito apoyo;0
+Necesito apoyo, no sé cómo resolverlo por mí mismo;0
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+Estoy en un aprieto, necesito que me auxilien;0
+Detecté una anomalía en el patrón de operación;0
+El equipo ha sido rehabilitado y está en excelentes condiciones;1
+El equipo ha vuelto a su funcionamiento habitual;1
+Hemos resuelto con éxito todos los problemas del equipo;1
+El equipo ha sido reparado y está en su máximo estado;1
+Por favor, envíen a alguien para que revise el equipo en mi hogar;2
+Requiero actualización de firmware in situ;2
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+Por favor, agenden una cita para que un técnico venga a mi hogar;2
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+Estoy en problemas, necesito que me saquen de aquí;0
+El equipo ha sido restablecido con éxito a su pleno funcionamiento;1
+Estoy colapsado con este problema técnico;0
+El sistema no responde a los comandos;0
+No puedo hacerlo solo, requiero respaldo;0
+Estoy solicitando un servicio de revisión de equipo a domicilio;2
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera eficaz;1
+No comprendo los mensajes de error mostrados;0
+Estoy solicitando la asistencia de un técnico a domicilio;2
+Por favor, agenden una visita de un técnico en mi hogar;2
+Estoy bloqueado, ¿puedes echarme un cable?;0
+El equipo ha sido reparado y está funcionando de manera eficaz;1
+¿Puedes guiarme en esto?;0
+¿Puedes darme alguna orientación?;0
+¿Ofrecen mantenimiento correctivo para ascensores?;2
+Por favor, ayúdame, estoy en un dilema;0
+Hemos completado con éxito todas las reparaciones del equipo;1
+Por favor, envíen a alguien para que revise el equipo en mi hogar;2
+El equipo necesita ser revisado por un técnico en mi casa;2
+El equipo ha sido reparado y está en óptimas condiciones;1
+El equipo ha sido restablecido a su estado original;1
+El equipo ha vuelto a la normalidad;1
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia?;2
+El equipo ha sido reparado y está en buen estado de funcionamiento;1
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+Necesito que un técnico esté disponible en mi casa;2
+Necesito que me echen una mano con esto;0
+El equipo ha sido reparado y está en excelentes condiciones;1
+Estoy en un aprieto, necesito tu apoyo;0
+Hemos completado con éxito todas las reparaciones del equipo;1
+Estoy buscando un técnico que pueda venir a mi residencia;2
+Requiero auditoría técnica en mi planta manufacturera;2
+La intervención técnica fue impecable;1
+Requiero verificación de parámetros en mi laboratorio;2
+No tengo idea de qué hacer, ¿puedes socorrerme?;0
+Urge asistencia con este fallo crítico;0
+El equipo ha sido restablecido con éxito a su pleno funcionamiento;1
+El equipo ha sido restablecido a su pleno funcionamiento;1
+El equipo ha sido reparado y está en su máximo potencial;1
+El equipo ha sido restaurado y funciona adecuadamente;1
+Estoy bloqueado, ¿puedes echarme un cable?;0
+El equipo ha sido reparado y está operativo;1
+Necesito que alguien venga a mi casa para verificar el equipo;2
+Necesito que alguien venga a mi domicilio para evaluar el equipo;2
+El equipo ha sido restablecido a su máximo potencial;1
+Por favor, envíen a un experto para que examine el equipo en mi hogar;2
+Solicito una revisión preventiva del equipo;2
+El equipo ha sido rehabilitado y está en condiciones óptimas;1
+Por favor, agenden una visita técnica en mi hogar;2
+El equipo está de vuelta en acción;1
+El equipo ha sido rehabilitado y está en perfectas condiciones;1
+Requiero asistencia de un técnico en mi domicilio;2
+El equipo requiere la presencia de un técnico en mi hogar;2
+Los indicadores muestran valores inconsistentes;0
+El equipo está en su mejor estado de funcionamiento;1
+Las reparaciones han tenido éxito y el equipo está operativo;1
+No puedo hacerlo solo, necesito que alguien me apoye;0
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo?;2
+Todas las reparaciones han sido exitosas;1
+No puedo hacerlo solo, necesito que alguien me apoye;0
+No tengo idea de qué hacer, ¿puedes socorrerme?;0
+El equipo ha sido reparado y está funcionando sin inconvenientes;1
+Necesito que un técnico esté disponible en mi casa;2
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+Requiero asistencia de un técnico en mi domicilio;2
+Necesito apoyo, no puedo resolverlo por mí mismo;0
+Los parámetros de calidad están dentro de rango;1
+Por favor, agenden una visita técnica en mi hogar;2
+Hemos superado con éxito todos los problemas del equipo;1
+Hemos superado con éxito todos los problemas del equipo;1
+Necesito que alguien venga a mi casa para verificar el equipo;2
+Estoy atrapado, necesito ayuda;0
+La última actualización resolvió las inconsistencias;1
+Necesito apoyo, no sé cómo resolverlo por mí mismo;0
+¿Puedes ofrecerme alguna guía?;0
+Necesito que un técnico esté presente en mi casa;2
+Hemos completado con éxito todas las reparaciones del equipo;1
+Los problemas del equipo han sido resueltos;1
+Por favor, envíen a alguien para que revise el equipo en mi hogar;2
+El equipo ha sido rehabilitado y está en excelentes condiciones;1
+¿Alguien podría darme una ayuda?;0
+Por favor, ayúdame, estoy en un dilema;0
+El equipo ha sido rehabilitado y está en su máximo potencial;1
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+El equipo ha sido rehabilitado y está en su máximo potencial;1
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia?;2
+Requiero calibración profesional de mis dispositivos;2
+El rendimiento ha mejorado notablemente;1
+Hemos completado con éxito las reparaciones del equipo;1
+Hemos completado con éxito todas las reparaciones del equipo;1
+Necesito que un profesional venga a mi casa para inspeccionar el equipo;2
+El equipo ha sido restaurado y está funcionando de manera eficaz;1
+Estoy solicitando la asistencia de un técnico a domicilio;2
+Estoy perdido, ¿puedes orientarme?;0
+No logro sincronizar los módulos principales;0
+¿Alguien puede explicarme cómo resolver esto?;0
+Estoy en problemas, necesito que me saquen de aquí;0
+Hemos completado con éxito todas las reparaciones del equipo;1
+Por favor, agenden una visita de un técnico en mi hogar;2
+El equipo ha sido reparado y está en excelente estado;1
+El equipo ha sido rehabilitado y funciona adecuadamente;1
+El equipo ha sido restablecido con éxito a su máximo potencial;1
+¿Puedes ofrecerme alguna dirección?;0
+Hemos resuelto con éxito todos los problemas del equipo;1
+Por favor, envíen a un experto para que examine el equipo en mi hogar;2
+Hemos resuelto todos los problemas del equipo de manera satisfactoria;1
+La calibración quedó dentro de tolerancias aceptables;1
+El dispositivo entró en modo de seguridad;0
+¿Podrías proporcionarme alguna asistencia?;0
+Hemos resuelto con éxito todos los problemas del equipo;1
+Estoy perdido, ¿puedes orientarme?;0
+Necesito que un técnico esté disponible en mi casa;2
+El equipo ha sido reparado y está operativo una vez más;1
+Necesito reparación de componentes hidráulicos en sitio;2
+Necesito que alguien venga a mi casa para verificar el equipo;2
+El equipo ha sido reparado y está funcionando de manera óptima;1
+Hemos completado con éxito las reparaciones del equipo;1
+Necesito que alguien venga a mi casa para verificar el equipo;2
+Estoy completamente perdido, ¿puedes brindarme tu ayuda?;0
+Por favor, asísteme, estoy bloqueado;0
+¿Puedes proporcionarme un poco de orientación?;0
+El equipo ha sido reparado y está funcionando sin problemas;1
+Requiero asistencia, no tengo la menor idea de qué hacer;0
+El equipo está en su máxima capacidad de operación;1
+Estoy atrapado, ¿puedes echarme un cable?;0
+El equipo ha sido rehabilitado y está en excelentes condiciones;1
+El equipo está en perfectas condiciones;1
+¿Puedes guiarme?;0
+Necesito ayuda, no puedo resolverlo por mí mismo;0
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más;1
+Necesito verificación de componentes electrónicos;2
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo?;2
+Hemos superado con éxito todos los problemas del equipo;1
+Las reparaciones han sido exitosas;1
+¿Puedes guiarme en esto?;0
+Estoy solicitando la asistencia de un técnico a domicilio;2
+La última actualización resolvió todos los fallos;1
+Por favor, envíen a alguien para que revise el equipo en mi hogar;2
+Las reparaciones se han completado con éxito;1
+¿Puedes guiarme en esto?;0
+La maquinaria opera con máxima eficiencia energética;1
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+El equipo ha sido restablecido con éxito;1
+¿Puedes darme alguna orientación?;0
+Hemos resuelto con éxito todos los problemas del equipo;1
+Por favor, envíen a un experto para que examine el equipo en mi hogar;2
+Requiero asesoramiento técnico en mi domicilio;2
+El equipo ha sido restaurado y está funcionando de manera efectiva;1
+¿Pueden programar una visita de un técnico a mi residencia?;2
+Estoy en problemas, ¿puedes socorrerme?;0
+Urge asistencia con este error crítico;0
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia?;2
+Requiero asistencia de un técnico en mi domicilio;2
+Las actualizaciones se aplicaron sin inconvenientes;1
+Estoy en problemas, necesito asesoramiento;0
+Por favor, ayúdame, estoy en un aprieto;0
+Estoy en una situación complicada, ¿puedes auxiliarme?;0
+No puedo hacerlo solo, necesito que alguien me apoye;0
+Las pruebas de estrés fueron superadas exitosamente;1
+Todas las fallas del equipo han sido corregidas;1
+Requiero servicio de puesta en marcha de equipos;2
+El equipo ha sido restablecido a su máximo rendimiento con éxito;1
+Estoy buscando un profesional que pueda venir a mi residencia;2
+¿Alguien podría darme una ayuda?;0
+Estoy en una situación complicada, ¿puedes brindarme tu ayuda?;0
+El equipo ha sido restablecido a su máximo rendimiento;1
+¿Pueden enviar especialista en robótica industrial?;2
+Estoy en un dilema, necesito orientación;0
+Todos los sensores funcionan óptimamente;1
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más de manera óptima;1
+El equipo ha sido restaurado y está funcionando de manera efectiva;1
+El equipo ha sido restablecido con éxito a su pleno funcionamiento;1
+Estoy solicitando un servicio de revisión de equipo a domicilio;2
+Hay una discrepancia en los valores mostrados;0
+Estoy en una situación complicada, ¿puedes darme una mano?;0
+Todos los indicadores muestran valores normales;1
+Requiero una inspección de seguridad en mis equipos;2
+Estoy en un dilema, necesito orientación;0
+Estoy en un callejón sin salida, necesito tu apoyo;0
+Hemos completado con éxito todas las reparaciones del equipo;1
+El equipo ha sido reparado y está en su mejor estado;1
+El equipo necesita la atención de un técnico en mi hogar;2
+El equipo ha sido restaurado y está operativo de manera eficaz;1
+El sistema de control opera dentro de parámetros normales;1
+Necesito que un profesional venga a mi casa para inspeccionar el equipo;2
+Requiero asesoramiento técnico en mi domicilio;2
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+¿Puedes ofrecerme alguna dirección?;0
+Estoy completamente perdido con esta configuración;0
+Por favor, ¿puedes asistirme con esto?;0
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo?;2
+El equipo ha sido reparado y está en funcionamiento;1
+El equipo ha sido reparado y está funcionando sin problemas;1
+Estoy en un aprieto, necesito tu asistencia;0
+El equipo ha sido reparado y está en su máximo estado;1
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+Necesito que alguien venga a mi casa para verificar el equipo;2
+Requiero asistencia de un técnico en mi domicilio;2
+El equipo ha sido arreglado y está funcionando correctamente;1
+No consigo hacer funcionar el sistema;0
+Por favor, asísteme, estoy bloqueado;0
+El equipo requiere la presencia de un técnico en mi hogar;2
+Estoy atrapado, necesito que me saquen de aquí;0
+El equipo ha sido reparado y está listo para usar;1
+Necesito que me echen un cable con esto;0
+¿Puedes darme una mano con esto?;0
+¿Puedes ofrecerme alguna dirección?;0
+El equipo ha sido rehabilitado y está en excelentes condiciones;1
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia?;2
+El equipo está en su máximo rendimiento;1
+¿Alguien puede prestarme asesoramiento?;0
+El equipo ha sido reparado y está funcionando sin inconvenientes;1
+Requiero asistencia para recuperar datos perdidos;0
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo?;2
+El equipo ha sido restaurado y está funcionando de manera eficaz;1
+Estoy bloqueado, ¿puedes echarme un cable?;0
+Por favor, agenden una visita técnica en mi hogar;2
+El sistema recuperó su capacidad operativa completa;1
+Necesito certificación técnica para los equipos de producción;2
+Hemos superado con éxito todos los problemas del equipo;1
+Por favor, ¿puedes darme un empujón con esto?;0
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera eficiente;1
+¿Puedes guiarme en esto?;0
+Estoy en un problema, ¿puedes socorrerme?;0
+El equipo ha sido restablecido a su máximo funcionamiento;1
+No puedo hacerlo solo, necesito que alguien me apoye;0
+Por favor, agenden una visita de un técnico en mi hogar;2
+El equipo ha sido reparado y está funcionando sin inconvenientes;1
+El dispositivo funciona perfectamente después de la intervención;1
+Estoy solicitando un servicio de revisión de equipo a domicilio;2
+Hemos completado con éxito todas las reparaciones del equipo;1
+Las correcciones han dado resultado y el equipo está operativo de nuevo;1
+Requiero asesoramiento técnico en mi domicilio;2
+Estoy perdido, ¿puedes orientarme?;0
+No puedo descifrarlo, ¿puedes brindarme tu ayuda?;0
+Estoy atrapado, ¿puedes socorrerme?;0
+¿Alguien puede prestarme asesoramiento?;0
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más;1
+¿Ofrecen servicio de instalación de equipos industriales?;2
+Estoy solicitando un servicio de revisión de equipo a domicilio;2
+¿Podrían enviar un especialista a verificar mi instalación eléctrica?;2
+El equipo ha sido reparado y está funcionando sin problemas;1
+Necesito resolver este conflicto de configuración;0
+No logro entender este error, necesito apoyo;0
+Necesito inspección de cumplimiento normativo;2
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo?;2
+Necesito asistencia técnica en mi domicilio;2
+¿Alguien puede prestarme asesoramiento?;0
+El diagnóstico confirmó el funcionamiento adecuado;1
+Por favor, agenden una visita de un técnico en mi hogar;2
+El equipo ha sido reparado y está en su mejor estado;1
+Estoy completamente perdido, necesito asesoramiento;0
+La certificación se realizó sin observaciones;1
+Necesito apoyo, no sé cómo resolverlo por mí mismo;0
+No tengo idea de qué hacer, necesito orientación;0
+El equipo ha sido restaurado y funciona adecuadamente;1
+Esto está fatal;0
+El equipo está en su mejor estado de funcionamiento;1
+El equipo ha sido rehabilitado y está en su máximo potencial;1
+Estoy desorientado, ¿puedes ofrecerme un poco de respaldo?;0
+Por favor, agenden una visita técnica en mi hogar;2
+¿Puedes ofrecerme alguna dirección?;0
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+Estoy en un callejón sin salida, necesito tu ayuda;0
+Necesito ayuda, no puedo resolverlo por mí mismo;0
+El equipo ha sido restaurado con éxito;1
+Necesito que alguien venga a mi casa para verificar el equipo;2
+El equipo necesita la atención de un técnico en mi hogar;2
+Estoy buscando un profesional que pueda venir a mi residencia;2
+Las correcciones han dado resultado y el equipo está en funcionamiento una vez más;1
+Necesito ayuda, no puedo resolverlo por mí mismo;0
+No puedo hacerlo solo, necesito que alguien me apoye;0
+No puedo hacerlo solo, necesito que alguien me apoye;0
+El sistema se bloqueó inesperadamente;0
+No encuentro solución en el manual;0
+Las reparaciones se han completado satisfactoriamente;1
+El equipo ha sido rehabilitado y está funcionando correctamente;1
+Estoy atascado, necesito que me saquen de aquí;0
+Estoy completamente perdido, necesito orientación;0
+El equipo requiere la presencia de un técnico en mi hogar;2
+El equipo ha sido restablecido a su máximo rendimiento con éxito;1
+Por favor, envíen a un profesional para inspeccionar el dispositivo en casa;2
+¿Puedes darme una mano con esto?;0
+La reparación preventiva evitó fallos mayores;1
+El equipo ha sido restaurado y está funcionando de manera eficaz;1
+Necesito que alguien venga a mi casa para verificar el equipo;2
+El equipo requiere la presencia de un técnico en mi hogar;2
+El equipo está en su punto máximo de funcionamiento;1
+El equipo ha sido restaurado y está funcionando de manera eficiente;1
+El equipo requiere de un técnico en mi hogar;2
+Por favor, envíen a un experto para que examine el equipo en mi hogar;2
+Por favor, agenden una visita de un técnico en mi hogar;2
+El equipo opera con máxima eficiencia;1
+El equipo ha sido reparado y está funcionando sin problemas;1
+Necesito que un profesional venga a mi casa para inspeccionar el equipo;2
+Estoy buscando un técnico que pueda venir a mi residencia;2
+No puedo resolverlo por mí mismo, requiero guía;0
+El equipo ha sido restaurado y está funcionando de manera eficiente;1
+¿Puedes darme alguna dirección?;0
+¿Pueden enviar a un especialista para que examine el equipo en mi residencia?;2
+Estoy en un aprieto, necesito tu asistencia;0
+Por favor, ayúdame, estoy en un dilema;0
+Necesito que un profesional venga a mi casa para inspeccionar el equipo;2
+Estoy en un callejón sin salida, necesito tu apoyo;0
+Hemos completado con éxito las reparaciones del equipo;1
+El equipo está funcionando sin problemas;1
+Hemos completado con éxito todas las reparaciones del equipo;1
+Por favor, ¿puedes asistirme con esto?;0
+Estoy en un callejón sin salida, necesito tu apoyo;0
+Estoy en una situación complicada, necesito asesoramiento;0
+El equipo necesita la atención de un técnico en mi hogar;2
+Estoy solicitando la asistencia de un técnico a domicilio;2
+Todo está en orden en el equipo y funciona correctamente;1
+Por favor, agenden una visita técnica en mi hogar;2
+Requiero asistencia, no tengo la menor idea de qué hacer;0
+El equipo ha sido reparado y está en pleno funcionamiento;1
+Necesito que un técnico esté presente en mi casa;2
+Necesito que un profesional venga a mi casa para inspeccionar el equipo;2
+Estoy en un callejón sin salida, necesito tu apoyo;0
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+¿Alguien podría darme una mano?;0
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+Estoy solicitando un servicio de revisión de equipo a domicilio;2
+El equipo ha sido rehabilitado y está en su máximo potencial;1
+El equipo ha sido reparado y está en buen estado;1
+El equipo ha sido rehabilitado;1
+¿Puedes darme alguna orientación?;0
+¿Puedes ofrecerme algún tipo de guía?;0
+El equipo ha sido reparado y está en su punto óptimo de funcionamiento;1
+Requiero asistencia, no sé cómo hacerlo;0
+Las correcciones han dado resultado y el equipo está operativo;1
+¿Alguien puede darme una mano?;0
+Solicito técnico para equipos de telecomunicaciones;2
+La recalibración se completó exitosamente;1
+El equipo ha sido restaurado y está operativo;1
+Necesito ayuda, no puedo resolverlo por mí mismo;0
+Estoy buscando un técnico que pueda venir a mi residencia;2
+Necesito programar una visita de mantenimiento en mi casa;2
+Estoy solicitando la asistencia de un técnico a domicilio;2
+Necesito apoyo, no sé cómo resolverlo por mí mismo;0
+Estoy en un aprieto, necesito tu asistencia;0
+Estoy atascado en la fase de configuración;0
+No puedo hacerlo solo, requiero respaldo;0
+El equipo ha sido reparado y está en condiciones óptimas;1
+¿Pueden enviar a un técnico a mi residencia para evaluar el equipo?;2
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+¿Alguien podría darme una ayuda?;0
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera efectiva;1
+Mi equipo no funciona;0
+Por favor, ayúdame, estoy en un dilema;0
+Estoy solicitando un servicio de revisión de equipo a domicilio;2
+El equipo requiere la presencia de un técnico en mi hogar;2
+El equipo requiere la presencia de un técnico en mi hogar;2
+¿Puedes guiarme en esto?;0
+El equipo emite señales de alarma continuas;0
+El equipo está en su punto máximo de funcionamiento;1
+Estoy bloqueado, necesito asistencia;0
+¿Alguien puede prestarme asesoramiento?;0
+Estoy en un aprieto, necesito tu asistencia;0
+Por favor, agenden una visita de un técnico en mi hogar;2
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+Estoy bloqueado, ¿puedes echarme un cable?;0
+El equipo ha sido reparado y está funcionando sin problemas;1
+Necesito guía para reiniciar el proceso;0
+El sistema funciona perfectamente;1
+¿Podrían enviar un ingeniero certificado a mi oficina mañana?;2
+Las reparaciones han dado sus frutos;1
+No puedo hacerlo solo, requiero respaldo;0
+La evaluación técnica no mostró anomalías;1
+Necesito que un técnico esté presente en mi casa;2
+El equipo ha sido reparado y está en excelentes condiciones;1
+Estoy colapsado con este error de configuración;0
+Hemos superado con éxito los problemas del equipo;1
+Todo el sistema opera dentro de los parámetros normales;1
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+Estoy en un callejón sin salida, ¿puedes ayudarme?;0
+Por favor, agenden una visita técnica en mi hogar;2
+Se han realizado las correcciones necesarias en el equipo;1
+¿Alguien podría darme una ayuda?;0
+Estoy solicitando un servicio de revisión de equipo a domicilio;2
+Necesito que alguien venga a mi casa para verificar el equipo;2
+El equipo ha sido reparado y está en su punto óptimo de funcionamiento;1
+¿Puedes brindarme alguna orientación?;0
+No sé por dónde empezar, ¿puedes orientarme?;0
+Estoy buscando un profesional que pueda venir a mi residencia;2
+Todo está en orden en el equipo;1
+Por favor, ayúdame, estoy en un dilema;0
+No tengo idea de qué hacer, ¿puedes socorrerme?;0
+Necesito que un profesional venga a mi casa para inspeccionar el equipo;2
+El equipo ha sido rehabilitado y está en su mejor estado de funcionamiento;1
+El equipo ha sido reparado y está funcionando sin problemas;1
+Requiero asistencia, no tengo la menor idea de qué hacer;0
+Estoy atrapado, ¿puedes socorrerme?;0
+Por favor, ayúdame, estoy en un callejón sin salida;0
+Hemos superado los problemas del equipo;1
+Requiero una inspección de seguridad en mi instalación eléctrica;2
+Hemos superado con éxito todos los problemas del equipo;1
+El equipo ha sido restaurado y está funcionando de manera eficiente;1
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+Necesito que un técnico esté presente en mi casa;2
+Requiero asistencia, no tengo la menor idea de qué hacer;0
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+¿Puedes ofrecerme alguna dirección?;0
+Hemos superado los problemas del equipo con éxito;1
+No consigo establecer comunicación con el dispositivo;0
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+El equipo ha sido rehabilitado y está en su punto óptimo de funcionamiento;1
+El equipo necesita la atención de un técnico en mi hogar;2
+Estoy solicitando la asistencia de un técnico a domicilio;2
+Todas las cuestiones del equipo han sido resueltas con éxito;1
+Necesito que me echen un cable aquí;0
+Estoy buscando un profesional que pueda venir a mi residencia;2
+Por favor, ¿puedes asistirme con esto?;0
+La verificación de seguridad fue satisfactoria;1
+Necesito que un técnico esté disponible en mi casa;2
+El equipo ha sido reparado y está listo para su uso;1
+No puedo resolverlo por mí mismo, requiero apoyo;0
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+Por favor, asísteme, estoy desorientado;0
+¿Puedes darme una mano con esto?;0
+Estoy buscando un profesional que pueda venir a mi residencia;2
+Las reparaciones han tenido éxito y el equipo está operativo una vez más;1
+Necesito que un profesional venga a mi casa para revisar el equipo;2
+La intervención técnica superó las expectativas;1
+El equipo está en pleno funcionamiento;1
+Por favor, ayúdame, estoy atascado;0
+El equipo necesita la atención de un técnico en mi hogar;2
+¿Alguien puede prestarme asesoramiento?;0
+Necesito certificación técnica para mis equipos;2
+Necesito ayuda, no puedo resolverlo por mí mismo;0
+Por favor, ¿puedes asistirme con esto?;0
+Estoy perdido, ¿puedes orientarme?;0
+El equipo ha sido restaurado y está en pleno funcionamiento;1
+Estoy completamente perdido, necesito ayuda;0
+Estoy en un dilema, necesito que me auxilien;0
+La actualización del software se aplicó correctamente;1
+Necesito verificación de protocolos de seguridad;2
+El equipo ha sido rehabilitado y está en condiciones ideales;1
+El equipo está en su mejor estado de funcionamiento;1
+El equipo ha sido restaurado y está funcionando eficazmente;1
+El equipo está en su rendimiento óptimo;1
+Requiero que un técnico venga a revisar el equipo en mi hogar;2
+Hemos resuelto con éxito todos los problemas del equipo de manera satisfactoria;1
+Todas las cuestiones del equipo han sido resueltas de manera satisfactoria;1
+Necesito que un técnico esté disponible en mi casa;2
+Requiero asistencia de un técnico en mi domicilio;2
+Las correcciones han dado resultado y el equipo está operativo de nuevo de manera óptima;1
+Estoy en problemas, necesito que me saquen de aquí;0
+El equipo ha sido restablecido a su máximo rendimiento con éxito;1
+Por favor, agenden una visita técnica en mi hogar;2
+No tengo idea de qué hacer, ¿puedes socorrerme?;0
+Requiero asesoramiento técnico en mi domicilio;2
+Necesito que un técnico esté presente en mi casa;2
+¿Puedes darme alguna orientación?;0
+Estoy buscando un técnico que pueda venir a mi residencia;2
+Estoy buscando un profesional que pueda venir a mi residencia;2
+¿Pueden programar una cita para que un técnico venga a mi domicilio?;2
+Estoy en una situación complicada, necesito guía;0
+Necesito calibración profesional para mis instrumentos médicos;2
+El equipo ha sido restablecido a su pleno funcionamiento con éxito;1
+Estoy solicitando un servicio de revisión de equipo a domicilio;2
+El equipo ha sido restablecido a su pleno funcionamiento;1
+La reparación superó todas las expectativas;1
+¿Pueden enviar a un técnico a mi residencia para inspeccionar el equipo?;2
+Estoy buscando un técnico que pueda venir a mi residencia;2
+Requiero asistencia de un técnico en mi domicilio;2
+Todas las cuestiones del equipo han sido abordadas;1
