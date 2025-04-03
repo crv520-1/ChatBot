@@ -118,6 +118,6 @@ Tardó aproximadamente unos 15 minutos con un Intel Core i5-13600KF.
 **Halago (1)**
 1. "Este producto ha revolucionado mi forma de trabajar" - Bien (Mal con el del seminario)
 2. "La facilidad de uso es extraordinaria" - Mal. Detecta que se necesita un técnico. (Bien con el del seminario)
-3. "Nunca había tenido un dispositivo tan eficiente" - Mal. Detecta que se necesita un técnico. (Mal con el del seminario)
+3. "Nunca había tenido un dispositivo tan eficiente" - Mal. Detecta que se necesita un técnico. (Mal con el del seminario). (Bien en el Mezcla)
 4. "El servicio al cliente fue excepcional y muy profesional" - Bien
 5. "La calidad de construcción supera cualquier expectativa" - Bien
