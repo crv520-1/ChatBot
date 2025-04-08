@@ -49,6 +49,9 @@ Lo datos que hemos usado a modo de prueba son:
 
 ## PRUEBAS
 ### Con epochs: 20
+
+Tardó escasos segundos con un Intel Core i5-13600KF.
+
 **Necesita información (0)**
 1. "¿El dispositivo incluye adaptador para corriente europea?" - Bien
 2. "¿Cuál es el período de garantía internacional?" - Bien
@@ -101,6 +104,7 @@ Tardó unos 4 minutos aproximadamente con un Intel Core i5-13600KF.
 
 Tardó aproximadamente unos 15 minutos con un Intel Core i5-13600KF.
 
+#### Pruebas con el datasetSinSesgo
 **Necesita información (0)**
 1. "¿El dispositivo incluye adaptador para corriente europea?" - Bien
 2. "¿Cuál es el período de garantía internacional?" - Bien
@@ -119,5 +123,52 @@ Tardó aproximadamente unos 15 minutos con un Intel Core i5-13600KF.
 1. "Este producto ha revolucionado mi forma de trabajar" - Bien (Mal con el del seminario)
 2. "La facilidad de uso es extraordinaria" - Mal. Detecta que se necesita un técnico. (Bien con el del seminario)
 3. "Nunca había tenido un dispositivo tan eficiente" - Mal. Detecta que se necesita un técnico. (Mal con el del seminario). (Bien en el Mezcla)
+4. "El servicio al cliente fue excepcional y muy profesional" - Bien
+5. "La calidad de construcción supera cualquier expectativa" - Bien
+
+#### Pruebas con el dataset del Seminario
+**Necesita información (0)**
+1. "¿El dispositivo incluye adaptador para corriente europea?" - Bien
+2. "¿Cuál es el período de garantía internacional?" - Bien
+3. "¿Puedo pagar a plazos este producto?" - Bien
+4. "¿Tiene modo de visualización nocturna?" - Bien
+5. "¿Es compatible con el nuevo sistema operativo Android 14?" - Bien
+
+**Necesita técnico (2)**
+1. "El escáner de iris no responde desde ayer" - Mal
+2. "La pantalla se ha vuelto completamente amarilla" - Mal
+3. "El lector de tarjetas SD hace ruidos metálicos extraños" - Mal
+4. "La batería se hincha cuando está cargando" - Mal
+5. "El dispositivo emite olores químicos al encenderlo" - Mal
+
+**Halago (1)**
+1. "Este producto ha revolucionado mi forma de trabajar" - Mal
+2. "La facilidad de uso es extraordinaria" - Bien
+3. "Nunca había tenido un dispositivo tan eficiente" - Mal
+4. "El servicio al cliente fue excepcional y muy profesional" - Bien
+5. "La calidad de construcción supera cualquier expectativa" - Bien
+
+#### Pruebas con el datasetMezcla
+
+El datasetMezcla está constituido por el datasetSinSesgo más el dataset del Seminario
+
+**Necesita información (0)**
+1. "¿El dispositivo incluye adaptador para corriente europea?" - Bien
+2. "¿Cuál es el período de garantía internacional?" - Bien
+3. "¿Puedo pagar a plazos este producto?" - Bien
+4. "¿Tiene modo de visualización nocturna?" - Bien
+5. "¿Es compatible con el nuevo sistema operativo Android 14?" - Bien
+
+**Necesita técnico (2)**
+1. "El escáner de iris no responde desde ayer" - Bien
+2. "La pantalla se ha vuelto completamente amarilla" - Bien
+3. "El lector de tarjetas SD hace ruidos metálicos extraños" - Bien
+4. "La batería se hincha cuando está cargando" - Bien
+5. "El dispositivo emite olores químicos al encenderlo" - Bien
+
+**Halago (1)**
+1. "Este producto ha revolucionado mi forma de trabajar" - Bien
+2. "La facilidad de uso es extraordinaria" - Mal
+3. "Nunca había tenido un dispositivo tan eficiente" - Bien
 4. "El servicio al cliente fue excepcional y muy profesional" - Bien
 5. "La calidad de construcción supera cualquier expectativa" - Bien
